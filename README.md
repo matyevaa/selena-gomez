@@ -1,4 +1,4 @@
-# selenagomez
+# Selena Gomez Website
 Static Animated Website about Selena Gomez
 
 Website contains the following features:
